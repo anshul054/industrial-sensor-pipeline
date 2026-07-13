@@ -2,7 +2,7 @@
 
 A Python feature pipeline that ingests messy multi-machine sensor data (temperature, vibration, pressure, RPM), resamples it onto a consistent time grid, engineers rolling features, flags anomalies with a rolling z-score, and joins in a simulated maintenance-log feature — the kind of pipeline that would feed a predictive maintenance model.
 
-**Live demo:** [add your Streamlit Cloud link here after deploying] — upload your own sensor CSV or explore the built-in sample data, see anomalies flagged per machine in real time.
+**Live demo: [https://industrial-sensor-pipeline-yjkxvl8nuc6vnph4jdfqku.streamlit.app](https://industrial-sensor-pipeline-yjkxvl8nuc6vnph4jdfqku.streamlit.app) — upload your own sensor CSV or explore the built-in sample data, see anomalies flagged per machine in real time.
 
 ## About this project
 
